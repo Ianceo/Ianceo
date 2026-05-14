@@ -39,31 +39,10 @@
  
 </div>
 
-### 📊 Estatísticas: 
-<p>
-<img
-align="left"
-alt="GitHub Stats"
-height="200"
-style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api?username=ianceo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-
-<img
-align="left"
-alt="GitHub Stats"
-height="200"
-style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api/pin/?username=ianceo&repo=github-readme-stats&theme=tokyonight&layout=compact&custom_title=tecnologias&langs_count=7"
-/>
-</p>
-
-<br> <br>
-
 ### 📊 Contatos:
 
-![linkedin](https://www.linkedin.com/in/ian-ceo/)
+![linkedin](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3B1iN5afQbTX6RBxGbpKci8w%3D%3D)
 ![instagram](https://www.instagram.com/ianceoo/)
-![GitHub Stats](https://github.com/Ianceo)
 
-![snake animation](https://github.com/ianceo/ianceo/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Ianceo/Ianceo/raw/output/github-contribution-grid-snake2.svg)
+

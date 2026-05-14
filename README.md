@@ -66,4 +66,4 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=ianceo&repo=github
 ![instagram](https://www.instagram.com/ianceoo/)
 ![GitHub Stats](https://github.com/Ianceo)
 
-![snake animation](https://github.com/Ianceoo/Ianceoo/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/ianceo/ianceo/blob/output/github-contribution-grid-snake2.svg)

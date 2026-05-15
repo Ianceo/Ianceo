@@ -40,11 +40,12 @@
 </div>
 
 ### 📊 Contatos:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-ceo/?skipRedirect=true)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://www.instagram.com/ianceoo/)
-
-
+<a href="https://www.linkedin.com/in/ian-ceo/?skipRedirect=true" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/ianceoo/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white" />
+</a>
 <br> <br>
 ![snake animation](https://github.com/Ianceo/Ianceo/raw/output/github-contribution-grid-snake2.svg)
 

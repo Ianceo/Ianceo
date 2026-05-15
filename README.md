@@ -41,8 +41,9 @@
 
 ### 📊 Contatos:
 
-![linkedin](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3B1iN5afQbTX6RBxGbpKci8w%3D%3D)
+![linkedin](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn:li:page:d_flagship3_profile_self_edit_top_card;1iN5afQbTX6RBxGbpKci8w==)
 ![instagram](https://www.instagram.com/ianceoo/)
 
 <br> <br>
 ![snake animation](https://github.com/Ianceo/Ianceo/raw/output/github-contribution-grid-snake2.svg)
+

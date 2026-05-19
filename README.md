@@ -18,7 +18,7 @@
 - 🤖 Crio soluções inteligentes usando Python e IA.
 -   ⚡Automatizar tarefas e desenvolver bots para WhatsApp.
 -   🧠 Atualmente estou me aprofundando em Machine Learning e Deep Learning.
--   📈 Também tenho experiência na área financeira
+-   📈 Experiência na área financeira
 
 ### 🛠️ Tecnologias e Linguagens:
 <div>
@@ -29,11 +29,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="react" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="html5" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"title="css3" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" title="Kali Linux" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg"title="illustador" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="photoshop" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="45" height="45" />
           
  
@@ -46,6 +42,4 @@
 <a href="https://www.instagram.com/ianceoo/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white" />
 </a>
-<br> <br>
-![snake animation](https://github.com/Ianceo/Ianceo/raw/output/github-contribution-grid-snake2.svg)
 

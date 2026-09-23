@@ -1,5 +1,4 @@
 # 👨‍💻 Ian Ceo 
-**`Desenvolvedor BackEnd`**
 
 <!--   my-header-img -->
 ![](header_.png)
@@ -14,7 +13,7 @@
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### 📌 Sobre mim:
-- 👨‍💻 Sou desenvolvedor backend especializado em IA.
+- 👨‍💻 Sou desenvolvedor Full Stack especializado em IA.
 - 🤖 Crio soluções inteligentes usando Python e IA.
 -   ⚡Automatizar tarefas e desenvolver bots para WhatsApp.
 -   🧠 Atualmente estou me aprofundando em Machine Learning e Deep Learning.

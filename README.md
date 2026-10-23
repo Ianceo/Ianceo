@@ -8,16 +8,16 @@
 
 ## Hi there, I'm Ian! 👋
 
-🚀 Apaixonado por IA, Python, desenvolvimento backend e desenvolvimento de bots para WhatsApp.
+🚀 Full Stack Developer | Information System | Data Analytics | Python | APIs | SQL | Automation | CPA-20.
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### 📌 Sobre mim:
 - 👨‍💻 Sou desenvolvedor Full Stack especializado em IA.
 - 🤖 Crio soluções inteligentes usando Python e IA.
--   ⚡Automatizar tarefas e desenvolver bots para WhatsApp.
--   🧠 Atualmente estou me aprofundando em Machine Learning e Deep Learning.
--   📈 Experiência na área financeira
+- ⚡Automatizar tarefas e desenvolver bots para WhatsApp.
+- 🧠 Atualmente estou me aprofundando em Machine Learning e Deep Learning.
+- 📈 Experiência na área financeira
 
 ### 🛠️ Tecnologias e Linguagens:
 <div>

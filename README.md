@@ -10,7 +10,7 @@
 
 🚀 Full Stack Developer | Information System | Data Analytics | Python | APIs | SQL | Automation | CPA-20.
 <div align ="center">
-<img src="![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" />
+  ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 </div>
 ### 📌 Sobre mim:
 - 👨‍💻 Sou desenvolvedor Full Stack especializado em IA.

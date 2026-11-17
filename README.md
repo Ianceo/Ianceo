@@ -9,9 +9,9 @@
 ## Hi there, I'm Ian! 👋
 
 🚀 Full Stack Developer | Information System | Data Analytics | Python | APIs | SQL | Automation | CPA-20.
-
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
+<div align ="center">
+<img src="![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" />
+</div>
 ### 📌 Sobre mim:
 - 👨‍💻 Sou desenvolvedor Full Stack especializado em IA.
 - 🤖 Crio soluções inteligentes usando Python e IA.
